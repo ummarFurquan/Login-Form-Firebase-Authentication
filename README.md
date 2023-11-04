@@ -1,4 +1,4 @@
-A Simple React Login Form with User Authentication usinf Firebase
+A Simple React Login Form with User Authentication using Firebase
 
 
 
